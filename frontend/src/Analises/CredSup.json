@@ -1,293 +1,1105 @@
 [
     {
-      "Municipio": "CORREGO DANTA",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 109026.8,
-          "Meses": {
-            "Outubro": 109026.8
-          }
-        }
-      ]
+        "Municipio": "CATAS ALTAS",
+        "Analises": [
+            {
+                "Ano": "2020",
+                "SomaAnual": 19355058.020000003,
+                "Meses": {
+                    "Outubro": 2383325.38,
+                    "Novembro": 521176.74000000005,
+                    "Abril": 3044557.0300000003,
+                    "Dezembro": 3408048.52,
+                    "Julho": 2458048.76,
+                    "Janeiro": 41726.31,
+                    "Setembro": 3461581.1799999997,
+                    "Maio": 286597.0,
+                    "Agosto": 2362331.0,
+                    "Fevereiro": 428787.44,
+                    "Junho": 958878.66
+                }
+            },
+            {
+                "Ano": "2018",
+                "SomaAnual": 7283464.539999999,
+                "Meses": {
+                    "Maio": 1015222.0,
+                    "Setembro": 302193.0,
+                    "Outubro": 1555075.9899999998,
+                    "Fevereiro": 48000.0,
+                    "Agosto": 831923.0,
+                    "Julho": 889314.8,
+                    "Junho": 475200.0,
+                    "Janeiro": 211111.48,
+                    "Dezembro": 1067937.27,
+                    "Abril": 312735.0,
+                    "Novembro": 574752.0
+                }
+            },
+            {
+                "Ano": "2022",
+                "SomaAnual": 8631103.16,
+                "Meses": {
+                    "Dezembro": 905518.04,
+                    "Abril": 2486000.0,
+                    "Janeiro": 3935585.12,
+                    "Maio": 1288000.0,
+                    "Agosto": 10000.0,
+                    "Setembro": 6000.0
+                }
+            },
+            {
+                "Ano": "2021",
+                "SomaAnual": 49805041.31,
+                "Meses": {
+                    "Junho": 1875103.9900000002,
+                    "Setembro": 7134400.0,
+                    "Dezembro": 13821908.78,
+                    "Maio": 1289407.96,
+                    "Julho": 846218.28,
+                    "Agosto": 1898766.72,
+                    "Fevereiro": 554453.4199999999,
+                    "Outubro": 1301698.4,
+                    "Novembro": 3527666.0,
+                    "Abril": 201319.5,
+                    "Janeiro": 17354098.26
+                }
+            },
+            {
+                "Ano": "2023",
+                "SomaAnual": 609900.0,
+                "Meses": {
+                    "Janeiro": 2000.0,
+                    "Agosto": 130000.0,
+                    "Maio": 222000.0,
+                    "Julho": 50000.0,
+                    "Novembro": 205900.0
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 3752720.4499999997,
+                "Meses": {
+                    "Janeiro": 1163610.53,
+                    "Outubro": 407840.0,
+                    "Fevereiro": 739697.9199999999,
+                    "Junho": 839000.0,
+                    "Maio": 83000.0,
+                    "Setembro": 167600.0,
+                    "Agosto": 115000.0,
+                    "Julho": 48000.0,
+                    "Novembro": 188972.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "CATAS ALTAS",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 205900.0,
-          "Meses": {
-            "Novembro": 205900.0
-          }
-        }
-      ]
+        "Municipio": "ARGIRITA",
+        "Analises": [
+            {
+                "Ano": "2022",
+                "SomaAnual": 7625362.3500000015,
+                "Meses": {
+                    "Setembro": 454411.25,
+                    "Junho": 445584.28,
+                    "Fevereiro": 71264.41,
+                    "Abril": 234028.88,
+                    "Maio": 497974.04,
+                    "Outubro": 1722091.5899999999,
+                    "Janeiro": 1495251.07,
+                    "Novembro": 453119.37,
+                    "Julho": 875187.52,
+                    "Agosto": 841194.05,
+                    "Dezembro": 535255.89
+                }
+            },
+            {
+                "Ano": "2020",
+                "SomaAnual": 3718111.39,
+                "Meses": {
+                    "Outubro": 713029.27,
+                    "Maio": 31300.0,
+                    "Dezembro": 727361.28,
+                    "Setembro": 643265.52,
+                    "Julho": 438080.22,
+                    "Janeiro": 513036.5,
+                    "Junho": 153585.0,
+                    "Novembro": 226503.59999999998,
+                    "Abril": 29000.0,
+                    "Agosto": 242950.0
+                }
+            },
+            {
+                "Ano": "2023",
+                "SomaAnual": 4507417.64,
+                "Meses": {
+                    "Outubro": 527084.21,
+                    "Junho": 302366.27,
+                    "Maio": 217948.08,
+                    "Julho": 1606108.79,
+                    "Janeiro": 252481.19,
+                    "Agosto": 325997.46,
+                    "Setembro": 843682.12,
+                    "Novembro": 34460.0,
+                    "Abril": 397289.52
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 7375782.97,
+                "Meses": {
+                    "Janeiro": 3594667.07,
+                    "Outubro": 580549.28,
+                    "Dezembro": 445127.62,
+                    "Abril": 243249.88,
+                    "Agosto": 79600.0,
+                    "Setembro": 1161149.38,
+                    "Julho": 446312.0,
+                    "Fevereiro": 314108.76,
+                    "Novembro": 445857.0,
+                    "Maio": 65161.98
+                }
+            },
+            {
+                "Ano": "2021",
+                "SomaAnual": 4815893.0600000005,
+                "Meses": {
+                    "Dezembro": 127265.0,
+                    "Novembro": 2188783.31,
+                    "Outubro": 492707.02,
+                    "Julho": 447264.62,
+                    "Maio": 92052.3,
+                    "Junho": 115342.44,
+                    "Setembro": 706674.9299999999,
+                    "Abril": 155586.74,
+                    "Fevereiro": 87074.53,
+                    "Agosto": 118500.0,
+                    "Janeiro": 284642.17
+                }
+            }
+        ]
     },
     {
-      "Municipio": "ARGIRITA",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 1024010.33,
-          "Meses": {
-            "Outubro": 527084.21,
-            "Setembro": 462466.12,
-            "Novembro": 34460.0
-          }
-        }
-      ]
+        "Municipio": "OURO FINO",
+        "Analises": [
+            {
+                "Ano": "2022",
+                "SomaAnual": 14778662.41,
+                "Meses": {
+                    "Fevereiro": 14778662.41
+                }
+            }
+        ]
     },
     {
-      "Municipio": "OURO FINO",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 3978874.23,
-          "Meses": {
-            "Novembro": 2578874.23,
-            "Setembro": 1400000.0
-          }
-        }
-      ]
+        "Municipio": "CACHOEIRA DOURADA",
+        "Analises": [
+            {
+                "Ano": "2022",
+                "SomaAnual": 37419373.03,
+                "Meses": {
+                    "Agosto": 11479480.32,
+                    "Julho": 3961400.0,
+                    "Dezembro": 21978492.71
+                }
+            },
+            {
+                "Ano": "2023",
+                "SomaAnual": 1184400.0,
+                "Meses": {
+                    "Junho": 209500.0,
+                    "Julho": 495000.0,
+                    "Setembro": 479900.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "ITANHANDU",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 263907.9,
-          "Meses": {
-            "Setembro": 250000.0,
-            "Outubro": 13907.9
-          }
-        }
-      ]
+        "Municipio": "MURIAÉ",
+        "Analises": [
+            {
+                "Ano": "2018",
+                "SomaAnual": 9579460.0,
+                "Meses": {
+                    "Agosto": 8344000.0,
+                    "Setembro": 1235460.0
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 190000.0,
+                "Meses": {
+                    "Outubro": 190000.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "LAGOA DA PRATA",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 14937712.24,
-          "Meses": {
-            "Novembro": 13045122.72,
-            "Outubro": 1892589.52
-          }
-        }
-      ]
+        "Municipio": "VISCONDE DO RIO BRANCO",
+        "Analises": [
+            {
+                "Ano": "2019",
+                "SomaAnual": 34520.0,
+                "Meses": {
+                    "Dezembro": 34520.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "LARANJAL",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 43442.67,
-          "Meses": {
-            "Setembro": 43442.67
-          }
-        }
-      ]
+        "Municipio": "LACERDA FILHO",
+        "Analises": [
+            {
+                "Ano": "2019",
+                "SomaAnual": 232650.0,
+                "Meses": {
+                    "Janeiro": 114650.0,
+                    "Dezembro": 4000.0,
+                    "Abril": 104000.0,
+                    "Novembro": 10000.0
+                }
+            },
+            {
+                "Ano": "2018",
+                "SomaAnual": 32300.0,
+                "Meses": {
+                    "Outubro": 22000.0,
+                    "Novembro": 10300.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "S\u00c3O GOTARDO TORNA",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 6615596.04,
-          "Meses": {
-            "Setembro": 6615596.04
-          }
-        }
-      ]
+        "Municipio": "ITANHANDU",
+        "Analises": [
+            {
+                "Ano": "2022",
+                "SomaAnual": 95817.73999999999,
+                "Meses": {
+                    "Agosto": 45000.0,
+                    "Maio": 50817.74
+                }
+            }
+        ]
     },
     {
-      "Municipio": "ANZOLIN",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 26386.94,
-          "Meses": {
-            "Setembro": 26386.94
-          }
-        }
-      ]
+        "Municipio": "PRATA",
+        "Analises": [
+            {
+                "Ano": "2020",
+                "SomaAnual": 168125.0,
+                "Meses": {
+                    "Outubro": 168125.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "LARANJAL U",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 7410.05,
-          "Meses": {
-            "Outubro": 7410.05
-          }
-        }
-      ]
+        "Municipio": "LAGOA DA PRATA",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 296794895.65000004,
+                "Meses": {
+                    "Julho": 55365072.019999996,
+                    "Junho": 8953318.7,
+                    "Novembro": 13160122.72,
+                    "Agosto": 4803368.48,
+                    "Outubro": 57680028.22,
+                    "Maio": 27678997.96,
+                    "Abril": 110155899.66,
+                    "Dezembro": 3842261.6,
+                    "Janeiro": 363665.62,
+                    "Setembro": 13275775.87,
+                    "Fevereiro": 1516384.8
+                }
+            },
+            {
+                "Ano": "2022",
+                "SomaAnual": 355128477.6,
+                "Meses": {
+                    "Agosto": 29042323.71,
+                    "Outubro": 27554212.240000002,
+                    "Abril": 109169511.91,
+                    "Dezembro": 24865242.01,
+                    "Julho": 15492827.68,
+                    "Setembro": 58899734.46,
+                    "Janeiro": 1053200.0,
+                    "Junho": 75849659.46000001,
+                    "Maio": 10425541.870000001,
+                    "Novembro": 2776224.26
+                }
+            },
+            {
+                "Ano": "2021",
+                "SomaAnual": 174743816.83,
+                "Meses": {
+                    "Maio": 35283000.0,
+                    "Outubro": 36111983.49,
+                    "Abril": 18524000.0,
+                    "Fevereiro": 17090203.259999998,
+                    "Setembro": 26490842.74,
+                    "Novembro": 287000.0,
+                    "Dezembro": 8008904.0,
+                    "Agosto": 32947883.339999996
+                }
+            }
+        ]
     },
     {
-      "Municipio": "BOM REPOUSO",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 30000.0,
-          "Meses": {
-            "Outubro": 30000.0
-          }
-        }
-      ]
+        "Municipio": "LARANJAL",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 1497511.3099999998,
+                "Meses": {
+                    "Outubro": 101793.42,
+                    "Agosto": 547196.73,
+                    "Setembro": 175847.16,
+                    "Julho": 468991.98,
+                    "Junho": 176295.97,
+                    "Maio": 27386.05
+                }
+            }
+        ]
     },
     {
-      "Municipio": "S\u00c3O GOTARDO",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 11152874.7,
-          "Meses": {
-            "Setembro": 6342128.42,
-            "Novembro": 4810746.28
-          }
-        }
-      ]
+        "Municipio": "UNIÃO DE MINAS",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 1322.61,
+                "Meses": {
+                    "Outubro": 1322.61
+                }
+            }
+        ]
     },
     {
-      "Municipio": "DIAMANTINA",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 14000.0,
-          "Meses": {
-            "Setembro": 14000.0
-          }
-        }
-      ]
+        "Municipio": "CURVELO",
+        "Analises": [
+            {
+                "Ano": "2022",
+                "SomaAnual": 33282919.220000003,
+                "Meses": {
+                    "Agosto": 14328241.48,
+                    "Outubro": 3200963.49,
+                    "Julho": 11717273.55,
+                    "Setembro": 4036440.7
+                }
+            }
+        ]
     },
     {
-      "Municipio": "MINAS GERAIS",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 56585485.82000001,
-          "Meses": {
-            "Novembro": 27595191.28,
-            "Setembro": 9596933.45,
-            "Outubro": 19393361.09
-          }
-        }
-      ]
+        "Municipio": "ANZOLIN",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 68374.06999999999,
+                "Meses": {
+                    "Maio": 37987.13,
+                    "Setembro": 26386.94,
+                    "Junho": 4000.0
+                }
+            },
+            {
+                "Ano": "2020",
+                "SomaAnual": 192941.48,
+                "Meses": {
+                    "Maio": 30000.0,
+                    "Outubro": 2000.0,
+                    "Dezembro": 76678.74,
+                    "Julho": 84262.74
+                }
+            },
+            {
+                "Ano": "2021",
+                "SomaAnual": 35945.07,
+                "Meses": {
+                    "Outubro": 5730.49,
+                    "Janeiro": 3214.58,
+                    "Setembro": 27000.0
+                }
+            },
+            {
+                "Ano": "2022",
+                "SomaAnual": 23300.0,
+                "Meses": {
+                    "Abril": 23300.0
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 23000.0,
+                "Meses": {
+                    "Setembro": 23000.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "PONTE NOVA",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 11798588.03,
-          "Meses": {
-            "Novembro": 11798588.03
-          }
-        }
-      ]
+        "Municipio": "BOM REPOUSO",
+        "Analises": [
+            {
+                "Ano": "2022",
+                "SomaAnual": 4481000.0,
+                "Meses": {
+                    "Janeiro": 4481000.0
+                }
+            },
+            {
+                "Ano": "2018",
+                "SomaAnual": 29610000.0,
+                "Meses": {
+                    "Dezembro": 29610000.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "SANTA BARBARA",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 11297805.469999999,
-          "Meses": {
-            "Setembro": 2022370.77,
-            "Outubro": 2559833.53,
-            "Novembro": 6715601.17
-          }
-        }
-      ]
+        "Municipio": "PIRANGA",
+        "Analises": [
+            {
+                "Ano": "2021",
+                "SomaAnual": 886333.13,
+                "Meses": {
+                    "Agosto": 886333.13
+                }
+            }
+        ]
     },
     {
-      "Municipio": "CAMBU\u00cd",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 8547756.83,
-          "Meses": {
-            "Setembro": 3418868.42,
-            "Novembro": 1177770.35,
-            "Outubro": 3951118.0599999996
-          }
-        }
-      ]
+        "Municipio": "ORATÓRIOS",
+        "Analises": [
+            {
+                "Ano": "2021",
+                "SomaAnual": 1124823.46,
+                "Meses": {
+                    "Julho": 72620.0,
+                    "Novembro": 435672.95,
+                    "Junho": 76561.15,
+                    "Setembro": 397360.0,
+                    "Maio": 142609.36
+                }
+            },
+            {
+                "Ano": "2022",
+                "SomaAnual": 10400.0,
+                "Meses": {
+                    "Fevereiro": 10400.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "TIRADENTES",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 672900.0,
-          "Meses": {
-            "Novembro": 672900.0
-          }
-        }
-      ]
+        "Municipio": "DIAMANTINA",
+        "Analises": [
+            {
+                "Ano": "2021",
+                "SomaAnual": 40000.0,
+                "Meses": {
+                    "Setembro": 40000.0
+                }
+            },
+            {
+                "Ano": "2023",
+                "SomaAnual": 14000.0,
+                "Meses": {
+                    "Setembro": 14000.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "S\u00c3O LOUREN\u00c7O",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 31534598.93,
-          "Meses": {
-            "Setembro": 4564078.8100000005,
-            "Outubro": 18807259.63,
-            "Novembro": 8163260.49
-          }
-        }
-      ]
+        "Municipio": "SÃO JOÃO DO ORIENTE",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 6885000.0,
+                "Meses": {
+                    "Fevereiro": 6885000.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "LUZ",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 332655.0,
-          "Meses": {
-            "Outubro": 332655.0
-          }
-        }
-      ]
+        "Municipio": "PONTE NOVA",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 80000.0,
+                "Meses": {
+                    "Maio": 80000.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "ARCOS",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 325000.0,
-          "Meses": {
-            "Outubro": 325000.0
-          }
-        }
-      ]
+        "Municipio": "SANTA BARBARA",
+        "Analises": [
+            {
+                "Ano": "2022",
+                "SomaAnual": 4680000.0,
+                "Meses": {
+                    "Junho": 4680000.0
+                }
+            }
+        ]
     },
     {
-      "Municipio": "MATUTINA",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 2802000.0,
-          "Meses": {
-            "Outubro": 2802000.0
-          }
-        }
-      ]
+        "Municipio": "SANTANA DO DESERTO",
+        "Analises": [
+            {
+                "Ano": "2020",
+                "SomaAnual": 3223594.3500000006,
+                "Meses": {
+                    "Maio": 50583.29,
+                    "Fevereiro": 790856.7000000001,
+                    "Outubro": 230532.27,
+                    "Junho": 203628.78,
+                    "Novembro": 272251.82,
+                    "Setembro": 446923.66000000003,
+                    "Julho": 231137.89,
+                    "Abril": 109499.54000000001,
+                    "Janeiro": 789229.46,
+                    "Agosto": 98950.94
+                }
+            },
+            {
+                "Ano": "2021",
+                "SomaAnual": 1238140.4000000001,
+                "Meses": {
+                    "Abril": 51435.770000000004,
+                    "Novembro": 67306.91,
+                    "Julho": 236992.21,
+                    "Agosto": 305901.89,
+                    "Setembro": 202876.43,
+                    "Junho": 306727.64,
+                    "Maio": 66899.55
+                }
+            },
+            {
+                "Ano": "2023",
+                "SomaAnual": 4292605.54,
+                "Meses": {
+                    "Abril": 1139850.0,
+                    "Janeiro": 529095.54,
+                    "Maio": 1205010.0,
+                    "Outubro": 1418650.0
+                }
+            },
+            {
+                "Ano": "2022",
+                "SomaAnual": 4195398.39,
+                "Meses": {
+                    "Junho": 387591.52,
+                    "Novembro": 2126081.75,
+                    "Dezembro": 402570.67,
+                    "Outubro": 578915.33,
+                    "Maio": 234060.18,
+                    "Abril": 184700.0,
+                    "Setembro": 271573.6,
+                    "Julho": 9905.34
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 398408.86,
+                "Meses": {
+                    "Novembro": 180841.32,
+                    "Dezembro": 217567.54
+                }
+            }
+        ]
     },
     {
-      "Municipio": "FORMIGA",
-      "Analises": [
-        {
-          "Ano": "2023",
-          "SomaAnual": 68543116.0,
-          "Meses": {
-            "Outubro": 400000.0,
-            "Novembro": 68143116.0
-          }
-        }
-      ]
+        "Municipio": "LAMBARI",
+        "Analises": [
+            {
+                "Ano": "2022",
+                "SomaAnual": 500000.0,
+                "Meses": {
+                    "Dezembro": 500000.0
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "TIRADENTES",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 510000.0,
+                "Meses": {
+                    "Novembro": 510000.0
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "OURO BRANCO",
+        "Analises": [
+            {
+                "Ano": "2021",
+                "SomaAnual": 43338401.870000005,
+                "Meses": {
+                    "Maio": 19278.26,
+                    "Abril": 27692815.79,
+                    "Julho": 787656.17,
+                    "Novembro": 3008704.5,
+                    "Janeiro": 8764087.04,
+                    "Junho": 3065860.11
+                }
+            },
+            {
+                "Ano": "2020",
+                "SomaAnual": 26063659.12,
+                "Meses": {
+                    "Novembro": 24374738.89,
+                    "Dezembro": 1688920.23
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 13539771.65,
+                "Meses": {
+                    "Maio": 4489203.16,
+                    "Junho": 969546.4,
+                    "Janeiro": 2732343.67,
+                    "Fevereiro": 5348678.42
+                }
+            },
+            {
+                "Ano": "2018",
+                "SomaAnual": 19991330.77,
+                "Meses": {
+                    "Junho": 7313598.66,
+                    "Setembro": 1728199.73,
+                    "Julho": 1294706.69,
+                    "Novembro": 8086313.75,
+                    "Agosto": 1568511.94
+                }
+            },
+            {
+                "Ano": "2022",
+                "SomaAnual": 1884014.32,
+                "Meses": {
+                    "Agosto": 1884014.32
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "PINGO D",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 5000000.0,
+                "Meses": {
+                    "Fevereiro": 5000000.0
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "SÃO LOURENÇO",
+        "Analises": [
+            {
+                "Ano": "2022",
+                "SomaAnual": 55844205.739999995,
+                "Meses": {
+                    "Outubro": 27237826.73,
+                    "Setembro": 1129498.54,
+                    "Maio": 1415570.63,
+                    "Julho": 2366661.56,
+                    "Fevereiro": 3054115.09,
+                    "Junho": 1511490.27,
+                    "Abril": 5080920.19,
+                    "Agosto": 1356826.6400000001,
+                    "Dezembro": 3155876.3899999997,
+                    "Janeiro": 1410741.8599999999,
+                    "Novembro": 8124677.84
+                }
+            },
+            {
+                "Ano": "2021",
+                "SomaAnual": 47411977.4,
+                "Meses": {
+                    "Novembro": 12446020.98,
+                    "Agosto": 1368787.3900000001,
+                    "Janeiro": 1671506.91,
+                    "Julho": 10263071.42,
+                    "Outubro": 2021388.4,
+                    "Abril": 980185.9500000001,
+                    "Setembro": 3945975.9699999997,
+                    "Fevereiro": 249648.47999999998,
+                    "Maio": 1157973.09,
+                    "Dezembro": 11383255.56,
+                    "Junho": 1924163.25
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 15418984.97,
+                "Meses": {
+                    "Outubro": 1635370.78,
+                    "Maio": 966913.92,
+                    "Dezembro": 4950937.75,
+                    "Setembro": 958778.3099999999,
+                    "Abril": 777826.5800000001,
+                    "Novembro": 1061199.02,
+                    "Janeiro": 2024210.2199999997,
+                    "Fevereiro": 82676.71,
+                    "Agosto": 821360.39,
+                    "Julho": 680085.41,
+                    "Junho": 1459625.88
+                }
+            },
+            {
+                "Ano": "2023",
+                "SomaAnual": 75540330.80000001,
+                "Meses": {
+                    "Maio": 4630032.5200000005,
+                    "Agosto": 16939820.81,
+                    "Fevereiro": 1291641.7,
+                    "Novembro": 8344496.2700000005,
+                    "Julho": 6998690.71,
+                    "Junho": 3399774.47,
+                    "Outubro": 15418104.14,
+                    "Setembro": 7530257.25,
+                    "Abril": 3909205.07,
+                    "Janeiro": 7078307.859999999
+                }
+            },
+            {
+                "Ano": "2020",
+                "SomaAnual": 43228930.16,
+                "Meses": {
+                    "Janeiro": 3632574.29,
+                    "Novembro": 3476068.62,
+                    "Dezembro": 17067836.48,
+                    "Julho": 2470678.9699999997,
+                    "Setembro": 3896769.04,
+                    "Agosto": 3978774.2300000004,
+                    "Maio": 579266.5,
+                    "Outubro": 5506657.67,
+                    "Abril": 1288675.85,
+                    "Junho": 645223.92,
+                    "Fevereiro": 686404.59
+                }
+            },
+            {
+                "Ano": "2018",
+                "SomaAnual": 51767843.83,
+                "Meses": {
+                    "Agosto": 1602656.41,
+                    "Novembro": 4237510.9399999995,
+                    "Setembro": 3523847.36,
+                    "Fevereiro": 2290356.34,
+                    "Julho": 3949967.72,
+                    "Maio": 4080903.2600000002,
+                    "Outubro": 2920789.27,
+                    "Janeiro": 17084203.13,
+                    "Dezembro": 5877330.87,
+                    "Abril": 1389523.15,
+                    "Junho": 4810755.38
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "LUZ",
+        "Analises": [
+            {
+                "Ano": "2022",
+                "SomaAnual": 85705427.67,
+                "Meses": {
+                    "Janeiro": 67579819.21,
+                    "Fevereiro": 2696486.0700000003,
+                    "Abril": 897755.0,
+                    "Dezembro": 3715339.84,
+                    "Setembro": 5084353.9,
+                    "Novembro": 2884076.26,
+                    "Julho": 1892527.2,
+                    "Junho": 955070.19
+                }
+            },
+            {
+                "Ano": "2020",
+                "SomaAnual": 8174609.690000001,
+                "Meses": {
+                    "Dezembro": 1393695.47,
+                    "Outubro": 645796.0,
+                    "Setembro": 807638.5800000001,
+                    "Novembro": 572722.41,
+                    "Junho": 1088373.32,
+                    "Fevereiro": 3326412.18,
+                    "Julho": 339971.73
+                }
+            },
+            {
+                "Ano": "2023",
+                "SomaAnual": 9318413.34,
+                "Meses": {
+                    "Maio": 707002.12,
+                    "Abril": 285358.35,
+                    "Julho": 2541951.0100000002,
+                    "Outubro": 1537225.6600000001,
+                    "Setembro": 3605795.85,
+                    "Fevereiro": 641080.35
+                }
+            },
+            {
+                "Ano": "2021",
+                "SomaAnual": 11563333.059999999,
+                "Meses": {
+                    "Junho": 467347.17,
+                    "Novembro": 1370125.7,
+                    "Dezembro": 1579819.21,
+                    "Julho": 1495225.31,
+                    "Setembro": 1324169.72,
+                    "Maio": 685674.12,
+                    "Outubro": 1107336.14,
+                    "Agosto": 912713.16,
+                    "Janeiro": 2441442.53,
+                    "Abril": 179480.0
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 3626988.6900000004,
+                "Meses": {
+                    "Fevereiro": 617589.3,
+                    "Abril": 383485.52,
+                    "Novembro": 2625913.87
+                }
+            },
+            {
+                "Ano": "2018",
+                "SomaAnual": 7538934.590000001,
+                "Meses": {
+                    "Dezembro": 618094.59,
+                    "Maio": 1534736.51,
+                    "Novembro": 1010133.66,
+                    "Outubro": 2909299.22,
+                    "Julho": 1466670.61
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "RIBEIRÃO DAS NEVES",
+        "Analises": [
+            {
+                "Ano": "2021",
+                "SomaAnual": 1674211.92,
+                "Meses": {
+                    "Junho": 1674211.92
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "VOLTA GRANDE",
+        "Analises": [
+            {
+                "Ano": "2021",
+                "SomaAnual": 200000.0,
+                "Meses": {
+                    "Setembro": 200000.0
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "VASCONCELOS",
+        "Analises": [
+            {
+                "Ano": "2020",
+                "SomaAnual": 6820.0,
+                "Meses": {
+                    "Agosto": 6820.0
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "LEOPOLDINA",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 90000.0,
+                "Meses": {
+                    "Dezembro": 90000.0
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "CASTRO",
+        "Analises": [
+            {
+                "Ano": "2021",
+                "SomaAnual": 40452.97,
+                "Meses": {
+                    "Setembro": 13196.94,
+                    "Maio": 8300.0,
+                    "Junho": 18956.03
+                }
+            },
+            {
+                "Ano": "2020",
+                "SomaAnual": 6928.19,
+                "Meses": {
+                    "Novembro": 6928.19
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 5545269.0,
+                "Meses": {
+                    "Novembro": 30330.0,
+                    "Agosto": 5514939.0
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "MIRADOURO",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 89000.0,
+                "Meses": {
+                    "Fevereiro": 25000.0,
+                    "Setembro": 18000.0,
+                    "Janeiro": 30000.0,
+                    "Maio": 16000.0
+                }
+            },
+            {
+                "Ano": "2018",
+                "SomaAnual": 5656073.2,
+                "Meses": {
+                    "Junho": 1271500.0,
+                    "Novembro": 605250.2,
+                    "Dezembro": 700790.0,
+                    "Maio": 179000.0,
+                    "Setembro": 750500.0,
+                    "Janeiro": 571133.0,
+                    "Abril": 95500.0,
+                    "Outubro": 992800.0,
+                    "Agosto": 313600.0,
+                    "Julho": 163000.0,
+                    "Fevereiro": 13000.0
+                }
+            },
+            {
+                "Ano": "2021",
+                "SomaAnual": 22200.0,
+                "Meses": {
+                    "Janeiro": 4200.0,
+                    "Outubro": 18000.0
+                }
+            },
+            {
+                "Ano": "2020",
+                "SomaAnual": 4399140.08,
+                "Meses": {
+                    "Outubro": 823500.0,
+                    "Janeiro": 628560.0,
+                    "Setembro": 80000.0,
+                    "Novembro": 573880.0,
+                    "Dezembro": 1007200.08,
+                    "Maio": 133500.0,
+                    "Fevereiro": 5000.0,
+                    "Agosto": 826000.0,
+                    "Junho": 321500.0
+                }
+            },
+            {
+                "Ano": "2022",
+                "SomaAnual": 88000.0,
+                "Meses": {
+                    "Setembro": 37000.0,
+                    "Novembro": 15000.0,
+                    "Dezembro": 36000.0
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 7631248.96,
+                "Meses": {
+                    "Outubro": 2379000.0,
+                    "Maio": 219100.0,
+                    "Junho": 309000.0,
+                    "Abril": 1728636.36,
+                    "Dezembro": 845700.0,
+                    "Julho": 99000.0,
+                    "Agosto": 171000.0,
+                    "Janeiro": 311112.6,
+                    "Novembro": 457000.0,
+                    "Fevereiro": 912200.0,
+                    "Setembro": 199500.0
+                }
+            }
+        ]
+    },
+    {
+        "Municipio": "FORMIGA",
+        "Analises": [
+            {
+                "Ano": "2023",
+                "SomaAnual": 39932610.46,
+                "Meses": {
+                    "Junho": 14980336.770000001,
+                    "Maio": 6039506.3100000005,
+                    "Outubro": 6258457.66,
+                    "Abril": 1336899.98,
+                    "Dezembro": 1206000.0,
+                    "Setembro": 15000.0,
+                    "Novembro": 10096409.74
+                }
+            },
+            {
+                "Ano": "2021",
+                "SomaAnual": 17785925.04,
+                "Meses": {
+                    "Agosto": 2926286.91,
+                    "Outubro": 4341723.43,
+                    "Julho": 468350.0,
+                    "Setembro": 8900013.82,
+                    "Dezembro": 496000.0,
+                    "Novembro": 653550.88
+                }
+            },
+            {
+                "Ano": "2022",
+                "SomaAnual": 36223824.21000001,
+                "Meses": {
+                    "Dezembro": 1782537.3,
+                    "Junho": 19819332.0,
+                    "Novembro": 14206496.65,
+                    "Setembro": 162400.45,
+                    "Maio": 253057.81
+                }
+            },
+            {
+                "Ano": "2019",
+                "SomaAnual": 340190.18999999994,
+                "Meses": {
+                    "Outubro": 73873.53,
+                    "Junho": 266316.66
+                }
+            },
+            {
+                "Ano": "2020",
+                "SomaAnual": 5620283.0,
+                "Meses": {
+                    "Fevereiro": 5620283.0
+                }
+            }
+        ]
     }
-  ]
+]
+

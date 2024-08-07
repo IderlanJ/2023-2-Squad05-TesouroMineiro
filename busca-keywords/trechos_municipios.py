@@ -13,12 +13,18 @@ def iterar_arquivos(pasta, keyword, pasta_destino):
             caminho_arquivo = os.path.join(pasta, nome_arquivo)
             buscar_trechos(caminho_arquivo, keyword, pasta_destino)
 
-def buscar_trechos(caminho_arquivo, keyword, pasta_destino):
+def buscar_trechos(caminho_arquivo, keyword, pasta_destino, mode='a'):
     with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
         texto_completo = arquivo.read()
 
-    datas_encontradas = re.findall(r'\d{2} de [A-Z][a-z]+ de \d{4}', texto_completo)
-    data = datas_encontradas.pop()
+    try:
+        padrao_data = r"\b(\d{1,2}-[A-Za-z]+-\d{4})\b"
+        correspondencia = re.search(padrao_data, caminho_arquivo)
+        data = correspondencia.group(1)
+        print(data)
+    except:
+        return 'Erro encontrado nas datas.'
+        
 
     for bloco in re.split(re.escape("PREFEITURA "), texto_completo):
         bloco = bloco.strip()
@@ -30,7 +36,7 @@ def buscar_trechos(caminho_arquivo, keyword, pasta_destino):
 
             nome_arquivo_base = os.path.splitext(os.path.basename(caminho_arquivo))[0]
             arquivo_destino = f'{pasta_destino}/{nome_do_municipio}-{nome_arquivo_base}_trechos.txt'
-            salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos)
+            salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos, mode)
 
     return f'Arquivo: {os.path.basename(caminho_arquivo)}, Ocorrências: {len(trechos)}'
 
@@ -47,21 +53,18 @@ def extrair_nome_municipio(bloco):
     else:
         return None
 
-def salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos):
+def salvar_trechos(arquivo_destino, data, nome_do_municipio, trechos, mode='a'):
     if len(trechos) != 0:
-        with open(arquivo_destino, 'a', encoding="utf-8") as f:
+        with open(arquivo_destino, mode, encoding="utf-8") as f:
             for trecho in trechos:
                 f.write(data + '\n')
                 f.write(nome_do_municipio + '\n')
                 f.write(trecho + '\n')
-    else:
-        print(f'Município: {nome_do_municipio} não possui.')
 
 
-pasta = 'diarios_spiders/diarios/full'
-keyword = 'CRÉDITO SUPLEMENTAR'
-pasta_destino = 'busca-keywords/trechos'
-
-criar_pasta_destino(pasta_destino)
-iterar_arquivos(pasta, keyword, pasta_destino)
-
+if __name__ == "__main__":
+    pasta = 'diarios_spiders/diarios/full'
+    keyword = 'CRÉDITO SUPLEMENTAR'
+    pasta_destino = 'busca-keywords/trechos'
+    criar_pasta_destino(pasta_destino)
+    iterar_arquivos(pasta, keyword, pasta_destino)
